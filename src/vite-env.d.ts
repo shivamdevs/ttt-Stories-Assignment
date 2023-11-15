@@ -1,2 +1,2 @@
 /// <reference types="vite/client" />
-// Code theft: © Shivam Dewangan
+// Code theft protection: © Shivam Dewangan
