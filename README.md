@@ -10,6 +10,8 @@ The same can be viewed on [https://ttt-stories.netlify.app](https://ttt-stories.
 
 ### Mobile Device Preview Image
 
+> NOTE: Each post is clickable and opens a new post url.
+
 ![TTT Preview Image](https://ttt-stories.netlify.app/images/ttt-preview.png)
 
 ## Stories Profile Data
