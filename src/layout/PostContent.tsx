@@ -1,4 +1,3 @@
-import React from 'react';
 import useStories from '../context/useStories';
 import { Link, Navigate, useParams } from 'react-router-dom';
 import parseDate from '../util/parseDate';

@@ -1,4 +1,3 @@
-import React from 'react';
 import useStories from '../context/useStories';
 import PostBody from '../components/PostBody';
 

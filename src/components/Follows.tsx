@@ -1,4 +1,3 @@
-
 export interface FollowProps {
     text: string;
     count: number;
