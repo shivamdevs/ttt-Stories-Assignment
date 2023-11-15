@@ -1,8 +1,8 @@
 # Stories | Terribly Tiny Tales
 
-> Assignment submitted by [Shivam Dewangan](https://myoasis.tech) to [Terribly Tiny Tales](https://www.terriblytinytales.com/).
+Assignment submitted by [Shivam Dewangan](https://myoasis.tech) to [Terribly Tiny Tales](https://www.terriblytinytales.com/).
 
-> Read [Notice](#notice---on-ai-usage) for usage of AI.
+> Please read [Notice](#notice---on-ai-usage) for usage of AI before anything else.
 
 > NOTE: Each post is clickable and opens a new post url.
 
