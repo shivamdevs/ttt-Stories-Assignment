@@ -6,8 +6,8 @@ const storyMetadata: StoryType = {
     username: "anujgosalia",
     fullname: "Anuj Gosalia",
 
-    profile: "/images/profile-picture.png",
-    banner: "/images/profile-banner.png",
+    profile: "/images/profile-picture.webp",
+    banner: "/images/profile-banner.webp",
 
     isPremium: true,
     isVerified: true,

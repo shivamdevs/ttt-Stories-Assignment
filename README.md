@@ -14,11 +14,15 @@ The same can be viewed on [https://ttt-stories.netlify.app](https://ttt-stories.
 
 ### Desktop Preview Image
 
-![TTT Desktop Preview Image](https://ttt-stories.netlify.app/images/ttt-desktop.png)
+![TTT Desktop Preview Image](https://ttt-stories.netlify.app/images/ttt-desktop.webp)
 
 ### Mobile Device Preview Image
 
-![TTT Mobile Preview Image](https://ttt-stories.netlify.app/images/ttt-mobile.png)
+![TTT Mobile Preview Image](https://ttt-stories.netlify.app/images/ttt-mobile.webp)
+
+### Recent LightHouse score
+
+![TTT LightHouse Score](https://ttt-stories.netlify.app/images/lighthouse.webp)
 
 ## Stories Profile Data
 
