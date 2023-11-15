@@ -20,6 +20,8 @@ The same can be viewed on [https://ttt-stories.netlify.app](https://ttt-stories.
 
 ![TTT Mobile Preview Image](https://ttt-stories.netlify.app/images/ttt-mobile.webp)
 
+> Taken at `Nov 16, 2023 03:38 AM` in `Chrome`'s `Incognito` mode.
+
 ### Recent LightHouse score
 
 ![TTT LightHouse Score](https://ttt-stories.netlify.app/images/lighthouse.webp)
