@@ -26,7 +26,7 @@ function PostContent() {
                         <span className="text-[#5FBBCA]">{post.category}</span> by {username}
                     </div>
                     <div className="flex flex-wrap gap-1 text-gray-400">
-                        <span className="">{parseDate(post.postDate)}</span> • <span className="">{post.read_time} Read</span> • <span className="">{parseCount(post.views)} Views</span>
+                        <span className="">{parseDate(post.postDate, true)}</span> • <span className="">{post.read_time} Read</span> • <span className="">{parseCount(post.views)} Views</span>
                     </div>
                 </div>
                 <blockquote className="border-l-4 border-l-[#5FBBCA] p-5 my-5 text-gray-600 text-sm bg-[#5FBBCA22] rounded-r-lg">{post.meta}</blockquote>
