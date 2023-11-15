@@ -10,7 +10,7 @@ function Header() {
                     <span className="h-full w-[2px] bg-[#58461E]"></span>
                     <span className="tracking-widest font-bold">STORIES</span>
                 </Link>
-                <FlatButton>Courses</FlatButton>
+                <FlatButton onClick={() => window.open(`https://learn.terriblytinytales.com/#explore`)}>Courses</FlatButton>
             </div>
         </header>
     )
