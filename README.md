@@ -2,17 +2,23 @@
 
 > Assignment submitted by [Shivam Dewangan](https://myoasis.tech) to [Terribly Tiny Tales](https://www.terriblytinytales.com/).
 
+> Read [Notice](#notice---on-ai-usage) for usage of AI.
+
+> NOTE: Each post is clickable and opens a new post url.
+
 ## Preview
 
 This assignment project is hosted on [Netlify](https://ttt-stories.netlify.app/).
 
 The same can be viewed on [https://ttt-stories.netlify.app](https://ttt-stories.netlify.app/).
 
+### Desktop Preview Image
+
+![TTT Desktop Preview Image](https://ttt-stories.netlify.app/images/ttt-desktop.png)
+
 ### Mobile Device Preview Image
 
-> NOTE: Each post is clickable and opens a new post url.
-
-![TTT Preview Image](https://ttt-stories.netlify.app/images/ttt-preview.png)
+![TTT Mobile Preview Image](https://ttt-stories.netlify.app/images/ttt-mobile.png)
 
 ## Stories Profile Data
 
@@ -91,7 +97,7 @@ Some features of the project including `hardcoded json data` and `utility functi
 
 AI is there to help use but we should not become depended on it.
 
-Other than those two parts and some other lines of codes most of the features was incorporated by me.
+Other than those two parts and some other lines of codes most of the features was incorporated by me. I can explain all the codes if required.
 
 ## Help and References
 
