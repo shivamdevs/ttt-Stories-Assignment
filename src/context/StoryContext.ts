@@ -1,9 +1,8 @@
 import React from "react";
 import storyMetadata from "../data/stories";
+import StoryType from "../types/Stories";
 
-export type StorySetter<T> = (key: keyof T, value: string) => void;
-
-export type StoryContextValue = typeof storyMetadata;
+export type StoryContextValue = StoryType;
 
 
 const StoryContext = React.createContext<StoryContextValue>({ ...storyMetadata });
