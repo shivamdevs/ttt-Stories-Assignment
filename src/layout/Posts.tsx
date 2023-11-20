@@ -1,8 +1,12 @@
 import useStories from '../context/useStories';
 import PostBody from '../components/PostBody';
+import { useDocumentTitle } from 'react-unique-hooks';
 
 function Posts() {
-    const { posts } = useStories();
+    const { posts, username } = useStories();
+
+    useDocumentTitle(username, " | ");
+
     return (
         <article id="posts" className="mt-5">
             <header className="border-b border-b-gray-300">

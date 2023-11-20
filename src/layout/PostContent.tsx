@@ -3,6 +3,7 @@ import { Link, Navigate, useParams } from 'react-router-dom';
 import parseDate from '../util/parseDate';
 import parseCount from '../util/parseCount';
 import PostContent from '../types/PostContent';
+import { useDocumentTitle } from 'react-unique-hooks';
 
 function PostContent() {
 
@@ -10,6 +11,11 @@ function PostContent() {
     const params = useParams();
 
     const post = posts.find(post => post.post_id === params.post_id);
+
+    useDocumentTitle([
+        post?.title || "",
+        post ? `${post.category} by ${username}` : "",
+    ], " | ");
 
 
     if (!post) return (<Navigate replace to="/posts/404" />);

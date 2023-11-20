@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom';
+import { useDocumentTitle } from 'react-unique-hooks';
 
 function NotFound() {
+    useDocumentTitle("Page not found", " | ");
     return (
         <div className="text-center space-y-6 py-20">
             <h1 className="text-2xl font-bold text-gray-600">Looks like you got lost!!!</h1>
